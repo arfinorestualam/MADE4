@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApkFin4</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Serial TV</string>
+    <string name="title_notifications">Favorit</string>
+    <string name="title">Judul :</string>
+    <string name="airing">Tayang :</string>
+    <string name="sinopsis">RINGKASAN</string>
+    <string name="settings">Pengaturan</string>
+    <string name="itemFav">  Favorit Kamu</string>
+    <string name="Fav"> Di tambahkan ke Favorit</string>
+    <string name="unFav">Di Hapus dari Favorit</string>
+    <string name="favEror">Gagal di Tambahkan</string>
+
+
+
+</resources>
